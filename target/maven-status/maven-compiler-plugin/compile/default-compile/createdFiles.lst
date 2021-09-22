@@ -1,0 +1,5 @@
+org\example\pojo\Region.class
+org\example\pojo\RegionStore.class
+org\example\Master.class
+org\example\pojo\RegionServer.class
+org\example\Master$1.class

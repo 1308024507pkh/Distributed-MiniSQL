@@ -1,0 +1,5 @@
+-1
+CREATE_TABLE$table_SQLC_005$table table_SQLC_005 (ID int, name char(10), primary key(ID))$-1109598452|-1109598451|-1109598450
+INSERT$table_SQLC_005$into table_SQLC_005 values (1, "nmsl")$-1109598452|-1109598451|-1109598450
+INSERT$table_SQLC_005$into table_SQLC_005 values (2, "nmsl")$-1109598451|-1109598450
+CREATE_TABLE$table_SQLC_005_1$table table_SQLC_005_1 (ID int, name char(10), primary key(ID))$-1109598451|-1109598450
